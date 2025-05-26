@@ -24,7 +24,7 @@ More Visualization can be found on our [[Website]](https://beingbeyond.github.io
 
 
 ## Code
-We will release our code and part of our dataset soon.
+We will release our code and dataset soon.
 
 ## Citation
 If you find our work useful, please consider citing us!
